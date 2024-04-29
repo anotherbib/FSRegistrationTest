@@ -1,0 +1,11 @@
+email: thebibzies1880@gmail.com
+firstname: yanisa
+surname: sirimunja
+phonenumber: 0988258707
+password: Paimon1880
+confirmpassword: Paimon1880
+
+invalid_email: abc123gmail.com
+invalid_phonenumber: 0012847538
+invalid_password: abcde1234
+invalid_confirmpassword: abcde1234

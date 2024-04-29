@@ -1,0 +1,5 @@
+successful registration
+registration with wrong email format
+registration with wrong phone number format 
+registration with wrong password format
+registration with wrong confirmed password
